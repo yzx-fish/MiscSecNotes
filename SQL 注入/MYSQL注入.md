@@ -87,8 +87,6 @@ http://www.qq.com/1.php?id=5 AND ord(MID(VERSION(),1,1)) = 53;
 
 ### 内置变量列表  
 @@version  VERSION()  @@GLOBAL.VERSION 版本   
-@@datadir 路径  
-@@basedir  
 @@version_compile_os  
 @@have_openssl 如果mysqld支持客户端/服务器协议的SSL(加密)则为YES  
 @@version_compile_os 判断系统类型  
